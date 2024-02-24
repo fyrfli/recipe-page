@@ -48,5 +48,5 @@ I coded this using vanilla html and css. I will probably re-do this using one of
 ## Author
 
 - Website - [Camille Frantz (@fyrfli)](https://diaspora.im/@fyrfli)
-- Frontend Mentor - [@fyrfli(https://www.frontendmentor.io/profile/fyrfli)
+- Frontend Mentor - [@fyrfli](https://www.frontendmentor.io/profile/fyrfli)
 - Twitter - [@fyrfli](https://www.twitter.com/fyrfli)
